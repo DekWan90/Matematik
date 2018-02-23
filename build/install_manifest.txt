@@ -1,0 +1,8 @@
+/usr/local/bin/Matematik
+/usr/local/include/Matematik-0.18.02/matematik.h
+/usr/local/include/Matematik-0.18.02/version.h
+/usr/local/lib/Matematik-0.18.02/MatematikConfig.cmake
+/usr/local/lib/Matematik-0.18.02/MatematikConfigVersion.cmake
+/usr/local/lib/Matematik-0.18.02/libMatematikCore.so
+/usr/local/include/Matematik-0.18.02/matematik.h
+/usr/local/include/Matematik-0.18.02/version.h

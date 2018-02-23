@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dekwan/Projek/WRT-Map/src/Matematik/include/matematik.h
+iostream
+-
+cstdlib
+-
+cmath
+-
+sstream
+-
+memory
+-
+
+/home/dekwan/Projek/WRT-Map/src/Matematik/src/matematik.cpp
+../include/matematik.h
+/home/dekwan/Projek/WRT-Map/src/Matematik/include/matematik.h
+
