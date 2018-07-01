@@ -1,3 +1,0 @@
-/home/dekwan/Projek/WRT-Map/src/Matematik/build/CMakeFiles/Matematik.dir
-/home/dekwan/Projek/WRT-Map/src/Matematik/build/src/CMakeFiles/MatematikCore.dir
-/home/dekwan/Projek/WRT-Map/src/Matematik/build/CMakeFiles/uninstall.dir

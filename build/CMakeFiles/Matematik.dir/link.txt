@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11    CMakeFiles/Matematik.dir/main.cpp.o  -o ../bin/Matematik -rdynamic ../bin/libMatematikCore.so -Wl,-rpath,/home/dekwan/Projek/WRT-Map/src/Matematik/bin: 

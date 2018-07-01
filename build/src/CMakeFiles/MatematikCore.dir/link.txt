@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC  -std=c++11   -shared -Wl,-soname,libMatematikCore.so -o ../../bin/libMatematikCore.so CMakeFiles/MatematikCore.dir/matematik.cpp.o -Wl,-rpath,:::::::::::::::::::::::::::::::: 
